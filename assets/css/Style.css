@@ -28,3 +28,13 @@ body{
       border-color: white;
   }
 }
+.borderbot{
+  border-bottom: 1px solid white;
+}
+.picture{
+  border-image: 1px solid white;
+}
+.ctn{
+  border: 1px solid white;
+  border-radius: 25px;
+}
