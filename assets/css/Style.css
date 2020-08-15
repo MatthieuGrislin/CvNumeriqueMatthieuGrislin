@@ -28,9 +28,9 @@ body{
       border-color: white;
   }
 }
-.borderbot{
+/*.borderbot{
   border-bottom: 1px solid white;
-}
+}*/
 .picture{
   border-image: 1px solid white;
 }
